@@ -108,6 +108,9 @@ If the .pbix file exceeds GitHub’s 100MB limit, you can download it here:
  📚 Final Year BCA (Data Science)
  📫 GitHub Profile
 
+##Learning source reference (@Rishab Mishra) on YT
+      [Watch the tutorial here](https://www.youtube.com/watch?v=6cV3OwFr0kk)
+
 ##📜 License
 This project is licensed under the MIT License
 
